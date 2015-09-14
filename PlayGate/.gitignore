@@ -1,0 +1,5 @@
+PlayGate/bin/
+PlayGate/obj/
+PlayGate/working/xulrunner/
+*.suo
+*.csproj.user
