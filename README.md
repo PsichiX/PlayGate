@@ -1,7 +1,7 @@
 PlayGate
 ========
 ![PlayGate](https://raw.githubusercontent.com/PsichiX/PlayGate/master/PlayGate/PlayGate/working/resources/icons/playgatelogo256.png)
-###Extended standalone game and application editor for ![PlayCanvas](http://playcanvas.com) toolset###
+###Extended standalone game and application editor for [PlayCanvas](http://playcanvas.com) toolset###
 
 ---------
 ###Disclaimer:###
